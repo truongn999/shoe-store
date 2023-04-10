@@ -19,6 +19,8 @@ const Cart = () => {
           <div className='flex-[2]'>
             <div className='text-lg font-bold'>Cart Items</div>
             <CartItem />
+            <CartItem />
+            <CartItem />
           </div>
           <div className='flex-[1]'>
             <div className='text-lg font-bold'>Sumary</div>
